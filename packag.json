@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "...",
+    "react-scripts": "..."
+  }
+}
